@@ -4,8 +4,7 @@ Agente financeiro inteligente desenvolvido com IA generativa, focado em análise
 
 ## Preview
 
-![App](assets/print.png)
-
+![App](data/assets/print.png)
 ---
 
 ## Sobre o Projeto
