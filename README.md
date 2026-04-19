@@ -2,6 +2,10 @@
 
 Agente financeiro inteligente desenvolvido com IA generativa, focado em análise de gastos, simulações financeiras e apoio à tomada de decisão.
 
+## Preview
+
+![App](assets/print.png)
+
 ---
 
 ## Sobre o Projeto
